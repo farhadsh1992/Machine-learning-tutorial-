@@ -16,14 +16,16 @@ Not-complite
 
 1. [Chapter 00](): Preprocessing data #
 2. [Chapter 01](): Naive Bayes Classifier
-3. [Chapter 04](): K Nearest Neighbors Classifier
-4. [Chapter 05](): Random Forest Classifier
-5. [Chapter 06](): Adaboost Classifier
-6. [Chapter 07](): XGBoost
-7. [Chapter 08](): Pipelines 
-8. [Chapter 09](): Logistic Regression #
-9. [Chapter 10](): Perceptron
-10. [Chapter 11](): +Theory 
+3. [Chapter 02](): Regression
+4. [Chapter 03](): K Nearest Neighbors-1
+5. [Chapter 04](): K Nearest Neighbors Classifier
+6. [Chapter 05](): Random Forest Classifier
+7. [Chapter 06](): Adaboost Classifier
+8. [Chapter 07](): XGBoost
+9. [Chapter 08](): Pipelines 
+10. [Chapter 09](): Logistic Regression #
+11. [Chapter 10](): Perceptron
+12. [Chapter 11](): +Theory 
 
 
 <hr>
